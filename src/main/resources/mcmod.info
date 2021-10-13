@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noxp",
+  "name": "XPClearOnDeath",
+  "description": "XP gets cleared when u die.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Calcilore"],
+  "credits": "The Forge and FML guys.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
